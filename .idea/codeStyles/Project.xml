@@ -1,0 +1,7 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ClojureCodeStyleSettings>{
+  :comp6411.core/foo 0
+}</ClojureCodeStyleSettings>
+  </code_scheme>
+</component>
