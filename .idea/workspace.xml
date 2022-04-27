@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5375631-71e6-42bb-bbe4-026c9f859b46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/solution2-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/solution2-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/solution2-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/performance" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -411,7 +407,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599434204218</updated>
-      <workItem from="1651090444613" duration="308000" />
+      <workItem from="1651090444613" duration="670000" />
     </task>
     <servers />
   </component>
