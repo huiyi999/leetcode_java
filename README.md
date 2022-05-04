@@ -1,10 +1,11 @@
-## Premium  
+## Premium Problems 
 ### 157.  Read N Characters Given Read4   
 ### 158.  Read N Characters Given read4 II - Call Multiple Times       
 ### 163.  Missing Ranges   
 ### 246.  Strobogrammatic Number   
 ### 247.  Strobogrammatic Number II   
-### 249.  Group Shifted Strings   
+### 249.  Group Shifted Strings  
+### 251.  Flatten 2D Vector
 ### 252.  Meeting Rooms    
 ### 253.  Meeting Rooms II   
 ### 259.  3Sum Smaller   
@@ -18,10 +19,12 @@
 ### 339.  Nested List Weight Sum  
 ### 346.  Moving Average from Data Stream  
 ### 348.  Design Tic-Tac-Toe  
+### 359.  Logger Rate Limiter
 ### 370.  Range Addition  
 ### 408.  Valid Word Abbreviation  
 ### 426.  Convert Binary Search Tree to Sorted Doubly Linked List  
 ### 487.  Max Consecutive Ones II  
+### 490.  The Maze
 ### 536.  Construct Binary Tree from String  
 ### 616.  Add Bold Tag in String    
 same as 758: https://leetcode.com/problems/bold-words-in-string/    
@@ -49,7 +52,10 @@ same as 758: https://leetcode.com/problems/bold-words-in-string/
 
 
 
-
+## Online Coding Questions
+1. Prefix Palindrome
+2. Number of pairs whose sum is a power of 2
+3. Choosing Shops  ***
 
 
 

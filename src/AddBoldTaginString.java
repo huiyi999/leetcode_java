@@ -4,7 +4,7 @@
  * You are given a string s and an array of strings words. You should add a closed pair of bold tag <b> and </b> to wrap the substrings in s that exist in words. If two such substrings overlap, you should wrap them together with only one pair of closed bold-tag. If two substrings wrapped by bold tags are consecutive, you should combine them.
  * <p>
  * Return s after adding the bold tags.
- *
+ * <p>
  * solution
  * 1. similar to "merge interval", create intervals
  * 2. similar to "range addition", range caching
@@ -13,7 +13,9 @@
 
 public class AddBoldTaginString {
     public String addBoldTag1(String s, String[] words) {
-        if (s == null || words == null || words.length < 1) return s;
+        if (s == null || words == null || words.length < 1) {
+            return s;
+        }
         int n = s.length();
         boolean[] bold = new boolean[n];
 
@@ -42,16 +44,17 @@ public class AddBoldTaginString {
         // }
 
         for (int i = 0; i < n; i++) {
-            if (bold[i] && (i == 0 || !bold[i - 1])) { // 1. i=0 && bold[i]  2. i!=0 && bold[i] && !bold[i-1]
+            if (bold[i] && (i == 0 || !bold[i - 1])) {
+                // 1. i=0 && bold[i]  2. i!=0 && bold[i] && !bold[i-1]
                 sb.append("<b>");
             }
             sb.append(s.charAt(i));
-            if (bold[i] && (i == n - 1 || !bold[i + 1])) // 1. i=n-1 && bold[i]  2. i!=n-1 && bold[i] && !bold[i+1]
+            if (bold[i] && (i == n - 1 || !bold[i + 1])) {
+                // 1. i=n-1 && bold[i]  2. i!=n-1 && bold[i] && !bold[i+1]
                 sb.append("</b>");
+            }
         }
         return sb.toString();
-
-
     }
     // similar to merge interval
 

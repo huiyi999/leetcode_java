@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5375631-71e6-42bb-bbe4-026c9f859b46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/Choosing Shops-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Choosing Shops-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Number of pairs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Prefix Palindrome.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/MeetingRoomsII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/MeetingRoomsII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/OA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/OA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TheMaze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheMaze.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,8 +125,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/src/NumberOfPairs.java" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1643039131062" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -130,7 +143,7 @@
       <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OA">
+  <component name="RunManager" selected="Application.NumberOfPairs">
     <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
       <setting name="replType" value="NREPL" />
       <setting name="execution" value="LEININGEN" />
@@ -175,13 +188,6 @@
     </configuration>
     <configuration name="CarPooling" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="CarPooling" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CombinationSum" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -273,6 +279,13 @@
     </configuration>
     <configuration name="MaximumProductSubarray" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="MaximumProductSubarray" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberOfPairs" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -382,17 +395,17 @@
       <item itemvalue="Application.SubarrayProductLessThanK" />
       <item itemvalue="Application.BalancedBracketCharacter" />
       <item itemvalue="Application.NumberofRecentCalls" />
-      <item itemvalue="Application.CombinationSum" />
       <item itemvalue="Application.cowProduction" />
       <item itemvalue="Application.OA" />
+      <item itemvalue="Application.NumberOfPairs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOfPairs" />
         <item itemvalue="Application.OA" />
         <item itemvalue="Application.BalancedBracketCharacter" />
         <item itemvalue="Application.NumberofRecentCalls" />
         <item itemvalue="Application.cowProduction" />
-        <item itemvalue="Application.CombinationSum" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +420,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599434204218</updated>
-      <workItem from="1651090444613" duration="670000" />
+      <workItem from="1651090444613" duration="3435000" />
     </task>
     <servers />
   </component>
